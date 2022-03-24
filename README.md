@@ -1,4 +1,4 @@
-# CrazyBills_Inventory-Management-System
+# CrazyBills - Inventory Management System
 # Submitted by 
 Rutvi Bhatt [ LEADER ] - 202112068    
 
