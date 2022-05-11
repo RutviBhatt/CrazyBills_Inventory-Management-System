@@ -1,10 +1,5 @@
 # CrazyBills - Inventory Management System
-# Submitted by 
-Rutvi Bhatt [ LEADER ] - 202112068    
 
-Atharva Vaze - 202112015
-
-Prachi Gole - 202112077
 # What is CRAZYBILLS? 
 CRAZYBILLS is a simple inventory management website for shopkeepers and
 pharmacists to manage and restock their store items. This website would have a login
